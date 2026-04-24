@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}|Healthcare\\Healthcare.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}|Healthcare\\Healthcare.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88D3A8-1439-482C-9653-ACA433F3C11E}|Healthcare.BLL\\Healthcare.BLL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.bll\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F88D3A8-1439-482C-9653-ACA433F3C11E}|Healthcare.BLL\\Healthcare.BLL.csproj|solutionrelative:healthcare.bll\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88D3A8-1439-482C-9653-ACA433F3C11E}|Healthcare.BLL\\Healthcare.BLL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.bll\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F88D3A8-1439-482C-9653-ACA433F3C11E}|Healthcare.BLL\\Healthcare.BLL.csproj|solutionrelative:healthcare.bll\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88D3A8-1439-482C-9653-ACA433F3C11E}|Healthcare.BLL\\Healthcare.BLL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.bll\\patientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F88D3A8-1439-482C-9653-ACA433F3C11E}|Healthcare.BLL\\Healthcare.BLL.csproj|solutionrelative:healthcare.bll\\patientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.dal\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|solutionrelative:healthcare.dal\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.dal\\repository\\interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|solutionrelative:healthcare.dal\\repository\\interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.dal\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|solutionrelative:healthcare.dal\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|solutionrelative:healthcare.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}|Healthcare\\Healthcare.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|d:\\.netprojects\\demo\\health\\healthcare\\healthcare.dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EA3819-3ACA-4724-A850-3835B45B50E9}|Healthcare.DAL\\Healthcare.DAL.csproj|solutionrelative:healthcare.dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Healthcare\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Healthcare\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:42:41.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.BLL\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "Healthcare.BLL\\Service\\PatientService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.BLL\\Service\\PatientService.cs",
+              "RelativeToolTip": "Healthcare.BLL\\Service\\PatientService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:41:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.BLL\\Service\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Healthcare.BLL\\Service\\IPatientService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.BLL\\Service\\IPatientService.cs",
+              "RelativeToolTip": "Healthcare.BLL\\Service\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:40:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare\\Program.cs",
+              "RelativeDocumentMoniker": "Healthcare\\Program.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare\\Program.cs",
+              "RelativeToolTip": "Healthcare\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:36:45.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientValidator.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.BLL\\PatientValidator.cs",
+              "RelativeDocumentMoniker": "Healthcare.BLL\\PatientValidator.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.BLL\\PatientValidator.cs",
+              "RelativeToolTip": "Healthcare.BLL\\PatientValidator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:35:20.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Healthcare.DAL\\Repository\\Implementation\\PatientRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeToolTip": "Healthcare.DAL\\Repository\\Implementation\\PatientRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:31:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Repository\\Interface\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Healthcare.DAL\\Repository\\Interface\\IPatientRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Repository\\Interface\\IPatientRepository.cs",
+              "RelativeToolTip": "Healthcare.DAL\\Repository\\Interface\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:24:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare\\appsettings.json",
+              "RelativeDocumentMoniker": "Healthcare\\appsettings.json",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare\\appsettings.json",
+              "RelativeToolTip": "Healthcare\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T18:18:54.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Healthcare.DAL\\Data\\DapperContext.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Data\\DapperContext.cs",
+              "RelativeToolTip": "Healthcare.DAL\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:18:33.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Healthcare.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Healthcare.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:16:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Healthcare.DAL\\Models\\Patient.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Models\\Patient.cs",
+              "RelativeToolTip": "Healthcare.DAL\\Models\\Patient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:57:57.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

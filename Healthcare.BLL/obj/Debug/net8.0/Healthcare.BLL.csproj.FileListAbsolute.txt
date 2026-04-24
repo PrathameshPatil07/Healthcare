@@ -1,0 +1,15 @@
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\bin\Debug\net8.0\Healthcare.BLL.deps.json
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\bin\Debug\net8.0\Healthcare.BLL.dll
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\bin\Debug\net8.0\Healthcare.BLL.pdb
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\bin\Debug\net8.0\Healthcare.DAL.dll
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\bin\Debug\net8.0\Healthcare.DAL.pdb
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthcare.BLL.csproj.AssemblyReference.cache
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthcare.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthcare.BLL.AssemblyInfoInputs.cache
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthcare.BLL.AssemblyInfo.cs
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthcare.BLL.csproj.CoreCompileInputs.cache
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthca.22E750CB.Up2Date
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthcare.BLL.dll
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\refint\Healthcare.BLL.dll
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\Healthcare.BLL.pdb
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.BLL\obj\Debug\net8.0\ref\Healthcare.BLL.dll

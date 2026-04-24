@@ -1,0 +1,14 @@
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\bin\Debug\net8.0\Healthcare.DAL.deps.json
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\bin\Debug\net8.0\Healthcare.DAL.runtimeconfig.json
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\bin\Debug\net8.0\Healthcare.DAL.dll
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\bin\Debug\net8.0\Healthcare.DAL.pdb
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.csproj.AssemblyReference.cache
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.AssemblyInfoInputs.cache
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.AssemblyInfo.cs
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.csproj.CoreCompileInputs.cache
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.dll
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\refint\Healthcare.DAL.dll
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.pdb
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\Healthcare.DAL.genruntimeconfig.cache
+D:\.NetProjects\Demo\Health\Healthcare\Healthcare.DAL\obj\Debug\net8.0\ref\Healthcare.DAL.dll
