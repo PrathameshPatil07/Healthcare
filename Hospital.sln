@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.API", "Healthcare\Hospital.API.csproj", "{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.DAL", "Healthcare.DAL\Hospital.DAL.csproj", "{28EA3819-3ACA-4724-A850-3835B45B50E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.BLL", "Healthcare.BLL\Hospital.BLL.csproj", "{5F88D3A8-1439-482C-9653-ACA433F3C11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Common", "Hospital.Common\Hospital.Common.csproj", "{A371532F-9804-4A64-A15C-6E85ED76E384}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{7F1EAB18-1A54-4238-81EA-601CE0C79034}"
+	ProjectSection(SolutionItems) = preProject
+		Appointments.sql = Appointments.sql
+		Bills.sql = Bills.sql
+		Departments.sql = Departments.sql
+		Doctors.sql = Doctors.sql
+		Hospitals.sql = Hospitals.sql
+		MedicalRecords.sql = MedicalRecords.sql
+		Medicines.sql = Medicines.sql
+		Patients.sql = Patients.sql
+		Prescriptions.sql = Prescriptions.sql
+		RefreshTokens.sql = RefreshTokens.sql
+		Roles.sql = Roles.sql
+		Users.sql = Users.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StoredProcedures", "StoredProcedures", "{B21C9468-292F-40D0-9CC8-C8807226F2D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SeedData", "SeedData", "{CE797EF1-4ABD-426A-95CF-DAFDA1C1315C}"
+	ProjectSection(SolutionItems) = preProject
+		AdminSeed.sql = AdminSeed.sql
+		RolesSeed.sql = RolesSeed.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Auth", "Auth", "{EE3BC898-C382-45DE-9924-5F9BC87F5655}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patient", "Patient", "{6630BC04-D2B9-40AC-B29B-E30CAE0474F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doctor", "Doctor", "{27ABCF18-FEB5-4CF0-B35C-F47EBA7BDB2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Appointment", "Appointment", "{DD26402C-F65F-413C-856D-A0C17C5E8D60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Billing", "Billing", "{37E21C35-067B-4A36-A5CA-9376CE3E1E1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prescription", "Prescription", "{B2707AC1-BE16-4836-A0A8-5E2DE1413B87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBA2E07-DD33-4086-B0B8-A2E2BBC4B767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28EA3819-3ACA-4724-A850-3835B45B50E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EA3819-3ACA-4724-A850-3835B45B50E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EA3819-3ACA-4724-A850-3835B45B50E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EA3819-3ACA-4724-A850-3835B45B50E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F88D3A8-1439-482C-9653-ACA433F3C11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F88D3A8-1439-482C-9653-ACA433F3C11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F88D3A8-1439-482C-9653-ACA433F3C11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F88D3A8-1439-482C-9653-ACA433F3C11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A371532F-9804-4A64-A15C-6E85ED76E384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A371532F-9804-4A64-A15C-6E85ED76E384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A371532F-9804-4A64-A15C-6E85ED76E384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A371532F-9804-4A64-A15C-6E85ED76E384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F1EAB18-1A54-4238-81EA-601CE0C79034} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B21C9468-292F-40D0-9CC8-C8807226F2D5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{CE797EF1-4ABD-426A-95CF-DAFDA1C1315C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{EE3BC898-C382-45DE-9924-5F9BC87F5655} = {B21C9468-292F-40D0-9CC8-C8807226F2D5}
+		{6630BC04-D2B9-40AC-B29B-E30CAE0474F8} = {B21C9468-292F-40D0-9CC8-C8807226F2D5}
+		{27ABCF18-FEB5-4CF0-B35C-F47EBA7BDB2D} = {B21C9468-292F-40D0-9CC8-C8807226F2D5}
+		{DD26402C-F65F-413C-856D-A0C17C5E8D60} = {B21C9468-292F-40D0-9CC8-C8807226F2D5}
+		{37E21C35-067B-4A36-A5CA-9376CE3E1E1A} = {B21C9468-292F-40D0-9CC8-C8807226F2D5}
+		{B2707AC1-BE16-4836-A0A8-5E2DE1413B87} = {B21C9468-292F-40D0-9CC8-C8807226F2D5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B39484-962D-40E9-B10D-62D9BE3D8C08}
+	EndGlobalSection
+EndGlobal

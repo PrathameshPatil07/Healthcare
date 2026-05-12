@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Healthcare.DAL.csproj": {}
+    "D:\\.NetProjects\\Demo\\Health\\dev\\.vs\\Healthcare.DAL\\Healthcare.DAL.csproj": {}
   },
   "projects": {
-    "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Healthcare.DAL.csproj": {
+    "D:\\.NetProjects\\Demo\\Health\\dev\\.vs\\Healthcare.DAL\\Healthcare.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Healthcare.DAL.csproj",
+        "projectUniqueName": "D:\\.NetProjects\\Demo\\Health\\dev\\.vs\\Healthcare.DAL\\Healthcare.DAL.csproj",
         "projectName": "Healthcare.DAL",
-        "projectPath": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\Healthcare.DAL.csproj",
+        "projectPath": "D:\\.NetProjects\\Demo\\Health\\dev\\.vs\\Healthcare.DAL\\Healthcare.DAL.csproj",
         "packagesPath": "C:\\Users\\Prathamesh Patil\\.nuget\\packages\\",
-        "outputPath": "D:\\.NetProjects\\Demo\\Health\\Healthcare\\Healthcare.DAL\\obj\\",
+        "outputPath": "D:\\.NetProjects\\Demo\\Health\\dev\\.vs\\Healthcare.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,13 +50,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.1.72, )"
             },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[7.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -66,7 +74,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.11, )"
+              "version": "[9.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
