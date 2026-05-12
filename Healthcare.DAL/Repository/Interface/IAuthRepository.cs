@@ -1,0 +1,16 @@
+﻿using Hospital.API.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Hospital.DAL.Repository.Interface
+{
+    public interface IAuthRepository
+    {
+        Task<int> RegisterAsync(User user);
+
+        Task<User> LoginAsync(string email);
+    }
+}

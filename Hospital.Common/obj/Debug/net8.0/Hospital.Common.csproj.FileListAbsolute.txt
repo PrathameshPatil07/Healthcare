@@ -1,0 +1,13 @@
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\bin\Debug\net8.0\Hospital.Common.deps.json
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\bin\Debug\net8.0\Hospital.Common.dll
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\bin\Debug\net8.0\Hospital.Common.pdb
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.csproj.AssemblyReference.cache
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.AssemblyInfoInputs.cache
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.AssemblyInfo.cs
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.csproj.CoreCompileInputs.cache
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.sourcelink.json
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.dll
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\refint\Hospital.Common.dll
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\Hospital.Common.pdb
+D:\.NetProjects\Demo\Health\dev\.vs\Hospital.Common\obj\Debug\net8.0\ref\Hospital.Common.dll

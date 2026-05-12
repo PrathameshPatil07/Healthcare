@@ -1,0 +1,6 @@
+D:\.NetProjects\Demo\Health\dev\.vs\Healthcare.BLL\obj\Debug\net8.0\Hospital.BLL.csproj.AssemblyReference.cache
+D:\.NetProjects\Demo\Health\dev\.vs\Healthcare.BLL\obj\Debug\net8.0\Hospital.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\Demo\Health\dev\.vs\Healthcare.BLL\obj\Debug\net8.0\Hospital.BLL.AssemblyInfoInputs.cache
+D:\.NetProjects\Demo\Health\dev\.vs\Healthcare.BLL\obj\Debug\net8.0\Hospital.BLL.AssemblyInfo.cs
+D:\.NetProjects\Demo\Health\dev\.vs\Healthcare.BLL\obj\Debug\net8.0\Hospital.BLL.csproj.CoreCompileInputs.cache
+D:\.NetProjects\Demo\Health\dev\.vs\Healthcare.BLL\obj\Debug\net8.0\Hospital.BLL.sourcelink.json
